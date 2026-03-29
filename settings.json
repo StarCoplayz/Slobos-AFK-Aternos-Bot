@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BIGNUULL.aternos.me",
-    "port": 20529,
+    "port":20529,
     "version": "",
     "try-creative": false
   },
